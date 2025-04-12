@@ -5,4 +5,4 @@ description: Ein praktischer Leitfaden für modulare AI-Systeme mit MCP-Struktur
 markdown: kramdown
 plugins:
   - jekyll-relative-links
-  - jekyll-redirect-from 
+  - jekyll-redirect-from
