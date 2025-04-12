@@ -1,0 +1,10 @@
+# Build Artefakte
+_book/
+node_modules/
+.DS_Store
+*.log
+*.tmp
+
+# GitBook
+*.pdf
+*.epub 

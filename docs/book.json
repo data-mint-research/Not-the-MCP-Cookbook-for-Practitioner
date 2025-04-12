@@ -1,0 +1,11 @@
+{
+  "title": "Not-the-MCP-Cookbook-for-Practitioners",
+  "description": "Ein praktischer Leitfaden zur Entwicklung modularer MCP-Systeme mit LLM-Integration.",
+  "author": "DataMint Research",
+  "language": "de",
+  "plugins": ["-highlight", "anchor-navigation-ex"],
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+} 

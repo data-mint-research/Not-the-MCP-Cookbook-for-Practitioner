@@ -1,0 +1,8 @@
+# Jekyll-Konfiguration für GitHub Pages
+theme: jekyll-theme-minimal
+title: Not-the-MCP-Cookbook-for-Practitioners
+description: Ein praktischer Leitfaden für modulare AI-Systeme mit MCP-Struktur und LLM-Agenten
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+  - jekyll-redirect-from 
